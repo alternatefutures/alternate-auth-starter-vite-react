@@ -11,8 +11,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@alternatefutures/ac-auth": "^0.1.0",
-    "@alternatefutures/ac-auth-react": "^0.1.0",
+    "@alternatefutures/ac-auth": "^0.2.0",
+    "@alternatefutures/ac-auth-react": "^0.2.0",
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-separator": "^1.1.8",
     "@radix-ui/react-slot": "^1.2.3",
